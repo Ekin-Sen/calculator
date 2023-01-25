@@ -1,0 +1,25 @@
+body {
+    background: black;
+}
+        
+.gn {
+    background: #798E93;
+}
+
+.op {
+    background: #D5B0A6;
+}
+
+.fn {
+    background: #E5CDA8;
+}
+
+.nr {
+    background: #ECD9C8;
+}
+
+@media (width >= 700px) {
+.calculator {
+width: 500px;
+}
+}
